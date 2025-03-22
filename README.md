@@ -1,8 +1,7 @@
-# 💻 Hi, I'm Sergio!
+# 💻 Hi, I'm Sergio!  [![Follow me on GitHub](https://img.shields.io/badge/follow-%40Sebana02-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebana02) ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Sebana02)  
 
 ### 🚀 Game & Software Developer
-
-I'm a passionate software developer with a degree in Game Development from Complutense University of Madrid. I have a strong foundation in both game design and software engineering, and I thrive on creating engaging and interactive experiences. With a focus on problem-solving and continuous learning, I am committed to delivering high-quality projects that push the boundaries of gaming and software development. I enjoy collaborating with teams, sharing knowledge, and I am always looking for new challenges to further grow my skills.
+I'm a passionate game and software developer with a degree in Game Development from Complutense University of Madrid. I specialize in creating interactive and engaging experiences, solving complex problems, and delivering high-quality projects. I'm always eager to learn and collaborate on new challenges to grow my skills.
 
 ## 🔧 Technologies & Tools
 
@@ -52,9 +51,8 @@ I'm a passionate software developer with a degree in Game Development from Compl
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebana02&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebana02&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebana02&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebana02&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
