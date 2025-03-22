@@ -35,9 +35,20 @@ I'm a passionate software developer with a degree in Game Development from Compl
 - **[Separity](https://github.com/XupappInc/Separity)** – A 3D game engine programmed from scratch using **C++**, libraries, and partially driven by data using **Lua**.  
   - **[Crazy-U](https://github.com/XupappInc/CrazyU)** – A fast-paced 3D third-person game where players drive a bus through busy streets, picking up passengers at various stops. It uses the **Separity** engine and is programmed in **Lua**.
 
-- **[Verdant Sorrow](https://github.com/Xuppap-Inc/VerdantSorrow)** – A 2D souls-like game where the player must defeat 3 bosses while unraveling the story. It is made entirely in **C++** from scratch and uses an **Entity-Component System** (ECS).
+- **[Mente en Conflicto](https://github.com/Lauu029/JuegosSerios)** – A virtual reality serious game focused on phobias and social anxiety. The game allows players to experience and interact with simulated environments to confront their fears. Developed in **Unity** using **C#** and the **XR Interaction Toolkit** for VR games.
+
+- **[Mastermind](https://github.com/angelo066/Moviles)** – A mobile version of the classic Mastermind puzzle game, developed for Android. The game challenges players to guess a hidden code through a series of guesses and clues. Built using **Java** and the **Android SDK** in **Android Studio**.
+
+- **[Plants vs. Zombies](https://github.com/Sebana02/IAV23-BanaMarchante-CallejoHerrero)** – A faithful clone of the popular tower defense game **Plants vs. Zombies**, developed as part of an AI project during my game development studies. Players strategically place plants with unique abilities to defend their garden from waves of zombies. The game replicates the core mechanics and offers a challenging yet fun experience. Developed in **Unity** using **C#**.
+
+- **[Inazuma Eleven RA](https://github.com/Sebana02/InazumaElevenRA)** – An augmented reality (AR) experience inspired by the **Inazuma Eleven** series, where players can view and interact with animated characters from the show in the real world. By leveraging **Unity**, **C#**, and the **Vuforia** engine, the game brings the iconic characters to life in an immersive AR environment.
+
+- **[Verdant Sorrow](https://github.com/Xuppap-Inc/VerdantSorrow)** – A 2D souls-like game where the player must defeat 3 bosses while unraveling the story. The game is entirely built from scratch in **C++** and implements an **Entity-Component System** (ECS) for modularity and performance.
 
 - **[DinoSouls](https://github.com/Proyectos1-FDI-UCM/c2021-Grupo01)** – A top-down action game where players use dinosaur souls to perform attacks and must defeat the final boss to uncover the fate of their village. Developed in **Unity** using **C#**.
+
+- **[Loving Psycho](https://github.com/JGomezPulido/Loving_Psycho)** – A psychological thriller, dating simulation game inspired by Alfred Hitchcock's *Psycho*. Players take on the role of Norman Bates, navigating two separate levels where they must charm and ultimately eliminate Marion (from *Psycho*) and Eva (from another thriller character). The game blends elements of suspense and strategy, immersing players in a dark narrative. Developed in **JavaScript** using the **Phaser** game engine.
+
 
 ## 📊 GitHub Stats
 
