@@ -59,6 +59,7 @@ I'm a passionate game and software developer with a degree in Game Development f
 - ✉️ **Email**: sergiobana2002@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-bana-marchante)  
 - 🐦 [Twitter](https://twitter.com/Khlozer)  
-- 🎮 [Itch.io](https://khlozer.itch.io/)  
+- 🎮 [Itch.io](https://khlozer.itch.io/)
+- 🗒️ [CV](./CV_SergioBañaMarchante.pdf)
 
 I'm always open to collaboration and learning new things! 🚀
