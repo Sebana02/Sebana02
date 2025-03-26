@@ -29,7 +29,7 @@ I'm a passionate game and software developer with a degree in Game Development f
 
 ## 📌 Featured Projects
 
-- **[Sparky](https://github.com/Sebana02/Sparky)** – A Discord bot designed to be an easy-to-use, customizable solution for your servers. It's perfect for friend groups, offering a variety of fun and useful commands that enhance chat and community interaction. Developed in **JavaScript** and currently being translated into **TypeScript**.
+- **[Sparky](https://github.com/Sebana02/Sparky)** – A Discord bot designed to be an easy-to-use, customizable solution for your servers. It's perfect for friend groups, offering a variety of fun and useful commands that enhance chat and community interaction. Developed in **JavaScript** originally and translated into **TypeScript**.
 
 - **[Separity](https://github.com/XupappInc/Separity)** – A 3D game engine programmed from scratch using **C++**, libraries, and partially driven by data using **Lua**.  
   - **[Crazy-U](https://github.com/XupappInc/CrazyU)** – A fast-paced 3D third-person game where players drive a bus through busy streets, picking up passengers at various stops. It uses the **Separity** engine and is programmed in **Lua**.
