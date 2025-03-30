@@ -60,6 +60,6 @@ I'm a passionate game and software developer with a degree in Game Development f
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-bana-marchante)  
 - 🐦 [Twitter](https://twitter.com/Khlozer)  
 - 🎮 [Itch.io](https://khlozer.itch.io/)
-- 🗒️ [CV](./CV_SergioBañaMarchante.pdf)
+- 🗒️ [CV Español](./CV_SergioBañaMarchante.pdf) [CV English](./CV_SergioBañaMarchante_en.pdf)
 
 I'm always open to collaboration and learning new things! 🚀
