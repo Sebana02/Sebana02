@@ -54,7 +54,4 @@ I'm a passionate game and software developer with a degree in Game Development f
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebana02&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebana02&layout=compact&theme=radical)
 
 
-## 📬 More about me
-🎮 [Itch.io](https://khlozer.itch.io/) | 🗒️ [CV Español](./CV_SergioBañaMarchante.pdf) | 🗒️ [CV English](./CV_SergioBañaMarchante_en.pdf)
-
 I'm always open to collaboration and learning new things! 🚀
